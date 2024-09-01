@@ -5,6 +5,9 @@ This is a docker container which will enable you to create a widget for [Booksta
 
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/8829fd3a-5c27-4f4b-98c1-475480196a7a">
 
+# DISCLAIMER
+I am no programmer! Code is written with help of ChatGPT. 
+
 # Docker-compose
 ```
 bookstack-gethomepage-api:
